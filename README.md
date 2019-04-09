@@ -21,3 +21,10 @@ Use [Piskel](https://www.piskelapp.com/) as a _level editor_. Process bitmap dat
 $ yarn
 $ yarn start
 ```
+
+## Fun Ideas
+
+- Web service to submit levels and play locally
+- Leaderboards
+- Refactor process
+- Powerups
